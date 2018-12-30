@@ -44,3 +44,10 @@ https://medium.com/@robhitchens/solidity-crud-part-2-ed8d8b4f74ec
 
   https://blog.b9lab.com/calls-vs-transactions-in-ethereum-smart-contracts-62d6b17d0bc2
 
+- Correct Way to Send Ether
+
+  https://medium.com/@kidinamoto/how-to-send-ether-correctly-a60208ad76d9
+
+- Fanout smart contract payments to save on gas costs
+
+  https://github.com/Arachnid/PayToMany
