@@ -51,3 +51,7 @@ https://medium.com/@robhitchens/solidity-crud-part-2-ed8d8b4f74ec
 - Fanout smart contract payments to save on gas costs
 
   https://github.com/Arachnid/PayToMany
+  
+- Eth OPCodes Summary (Useful for getting sense of code to instruction mapping)
+
+  https://ethereum.stackexchange.com/questions/119/what-opcodes-are-available-for-the-ethereum-evm
