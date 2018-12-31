@@ -21,6 +21,8 @@ https://medium.com/@robhitchens/solidity-crud-part-2-ed8d8b4f74ec
       https://bitbucket.org/rhitchens2/soliditystoragepatterns
       
       https://blog.b9lab.com/storage-pointers-in-solidity-7dcfaa536089
+      
+      https://ethereum.stackexchange.com/questions/13167/are-there-well-solved-and-simple-storage-patterns-for-solidity
 
 ## Strings:
 
