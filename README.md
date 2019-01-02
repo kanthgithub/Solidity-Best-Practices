@@ -38,7 +38,9 @@ https://medium.com/@robhitchens/solidity-crud-part-2-ed8d8b4f74ec
    
    https://medium.com/nomic-labs-blog/malicious-backdoors-in-ethereum-proxies-62629adf3357
    
-   
+## Transactions
+
+   https://ethereum.stackexchange.com/questions/39360/how-to-call-my-contracts-function-using-sendrawtransaction
 
 ## Basics:
 
