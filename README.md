@@ -3,11 +3,15 @@ Solidity-Best-Practices Collection
 
 ## Design Patterns:
 
+## State Machine:
+
+- https://blog.tokenfoundry.com/a-solidity-implementation-of-the-state-machine-design-pattern/
+
 ## CRUD:
 
-https://medium.com/@robhitchens/solidity-crud-part-1-824ffa69509a
+- https://medium.com/@robhitchens/solidity-crud-part-1-824ffa69509a
 
-https://medium.com/@robhitchens/solidity-crud-part-2-ed8d8b4f74ec
+- https://medium.com/@robhitchens/solidity-crud-part-2-ed8d8b4f74ec
 
 
 ## Storage:
