@@ -20,13 +20,15 @@ Solidity-Best-Practices Collection
 
    - One-Many Joins
 
-      https://medium.com/@robhitchens/enforcing-referential-integrity-in-ethereum-smart-contracts-a9ab1427ff42
+      - https://medium.com/@robhitchens/enforcing-referential-integrity-in-ethereum-smart-contracts-a9ab1427ff42
 
-      https://bitbucket.org/rhitchens2/soliditystoragepatterns
+      - https://bitbucket.org/rhitchens2/soliditystoragepatterns
       
-      https://blog.b9lab.com/storage-pointers-in-solidity-7dcfaa536089
+      - https://blog.b9lab.com/storage-pointers-in-solidity-7dcfaa536089
       
-      https://ethereum.stackexchange.com/questions/13167/are-there-well-solved-and-simple-storage-patterns-for-solidity
+      - https://ethereum.stackexchange.com/questions/13167/are-there-well-solved-and-simple-storage-patterns-for-solidity
+      
+      - https://ethereum.stackexchange.com/questions/13167/are-there-well-solved-and-simple-storage-patterns-for-solidity
 
 ## Strings:
 
