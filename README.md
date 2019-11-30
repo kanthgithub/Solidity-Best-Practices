@@ -79,7 +79,7 @@ Solidity-Best-Practices Collection
  Here's an example of how to use the create opcode:
 ```
 
-``js
+```js
 contract Factory {
     function create(bytes code) returns (address addr){
         assembly {
@@ -109,7 +109,7 @@ contract Tester {
         return a.add(x,y);
     }
 }
-``
+```
 
 ```
 Just deploy the Factory, pass its address into the Tester, and the Tester will create a new Adder, which it will use to add together integers passed to the test function.
